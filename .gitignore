@@ -1,0 +1,3 @@
+node_modules
+backend/src/environments/.env
+frontend/.env
